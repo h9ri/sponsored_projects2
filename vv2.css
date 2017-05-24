@@ -1,0 +1,40 @@
+
+#outermost{
+  margin-left: 10px;
+  margin-top: 150px;
+}
+#heading{
+  font-family: 'Open Sans';
+  font-size: 48px;
+  font-weight: bold;
+}
+.one{
+  font-family: 'Josefin Sans';
+  font-size: 20px;
+  font-weight: lighter;
+  width: 410px;
+  float: left;
+  margin-right: 15px;
+}
+#toppart{
+  margin-top: 50px;
+
+}
+#bottampart{
+  margin-top: 150px;
+
+}
+#a{
+  font-weight: bold;
+}
+#b{
+  font-weight: bold;
+}#c{
+  font-weight: bold;
+}#d{
+  font-weight: bold;
+}#e{
+  font-weight: bold;
+}#f{
+  font-weight: bold;
+}
